@@ -1,2 +1,3 @@
-# Full-Stack-Project
-Link => https://rajkumar-employee-project.onrender.com
+First Make Sure Backend is Running
+Then Change Directory by typing this command in terminal => cd frontend
+Then Start Frontend by typing this command in terminal => npm start
